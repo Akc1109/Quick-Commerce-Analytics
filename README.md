@@ -120,4 +120,6 @@ Two pages in Power BI:
 - **SLA Breach Analysis** — breach rate by store, by traffic level, by concurrent load
 - **Inventory Health & Store Rankings** — top over/understocked products, plus the combined store health scorecard
 
-(Screenshots go here — exporting from Power BI next.)
+![SLA Breach Analysis Dashboard](screenshots/page1_sla_breach.png)
+
+![Inventory Health Dashboard](screenshots/page2_inventory_health.png)
