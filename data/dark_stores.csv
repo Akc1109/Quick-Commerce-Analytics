@@ -1,0 +1,19 @@
+store_id,city,zone,capacity,opening_date
+1,Bengaluru,Koramangala,1621,2025-12-12
+2,Bengaluru,Indiranagar,1749,2024-10-28
+3,Bengaluru,Whitefield,1138,2024-08-22
+4,Bengaluru,HSR Layout,2300,2026-03-01
+5,Mumbai,Andheri,2484,2025-03-04
+6,Mumbai,Bandra,816,2025-02-09
+7,Mumbai,Powai,904,2025-01-23
+8,Mumbai,Dadar,1737,2024-11-19
+9,Delhi,Saket,1203,2026-02-26
+10,Delhi,Dwarka,1374,2024-10-21
+11,Delhi,Rohini,1152,2026-01-10
+12,Delhi,Karol Bagh,2352,2026-03-01
+13,Pune,Kothrud,2035,2025-09-30
+14,Pune,Viman Nagar,2353,2024-10-09
+15,Pune,Hinjewadi,1201,2025-11-04
+16,Hyderabad,Gachibowli,1961,2025-06-26
+17,Hyderabad,Madhapur,893,2024-08-27
+18,Hyderabad,Banjara Hills,2227,2024-08-26
